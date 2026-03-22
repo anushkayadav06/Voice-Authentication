@@ -1,0 +1,40 @@
+
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+Voice-Authentication/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Database files
+embeddings.db
+*.db
+*.sqlite
+*.xlsx
+
+# Large ML model files - share via Google Drive
+pretrained_models/
+pretrained_ecapa/
+ecapa_model/
+Voice-Authentication/pretrained_models/
+Voice-Authentication/pretrained_ecapa/
+Voice-Authentication/ecapa_model/
+Voice-Authentication/aasist/models/weights/
+
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
